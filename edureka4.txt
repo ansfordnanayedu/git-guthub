@@ -1,12 +1,7 @@
 Action 12:05:16: INSTALL. 
 1: MySQL Server 5.7 2: {3FAF469E-B671-4ED9-AB0D-CF8D41E35319} 
 Action 12:05:17: FindRelatedProducts. Searching for related applications
-Action 12:05:17: AppSearch. Searching for installed applications
-Action 12:05:17: LaunchConditions. Evaluating launch conditions
-Action 12:05:17: ValidateProductID. 
-Action 12:05:17: CostInitialize. Computing space requirements
-Action 12:05:18: FileCost. Computing space requirements
-Action 12:05:18: CostFinalize. Computing space requirements
+Action 12:05:17: AppSearch. Se2:05:18: CostFinalize. Computing space requirements
 Action 12:05:18: MigrateFeatureStates. Migrating feature states from related applications
 Action 12:05:18: InstallValidate. Validating install
 Min: 0 Max: 3977
