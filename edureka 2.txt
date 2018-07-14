@@ -10,7 +10,7 @@ Action 12:05:18: CostFinalize. Computing space requirements
 Action 12:05:18: MigrateFeatureStates. Migrating feature states from related applications
 Action 12:05:18: InstallValidate. Validating install
 Min: 0 Max: 3977
-
+Position: 25
 Position: 50
 Position: 75
 Position: 100
